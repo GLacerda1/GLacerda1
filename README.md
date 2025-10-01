@@ -2,7 +2,7 @@
 
 **`Desenvolvedor FullStack`**
 
-Me chamo Gabriel Lacerda Araújo e tenho 19 anos. Atualmente estou cursando Engenharia de software na FIAP. Sou apaixonado por tecnologia e estou sempre em busca de novos conhecimentos, procuro estar sempre evoluindo.
+Me chamo Gabriel Lacerda Araújo e tenho 20 anos. Atualmente estou cursando Engenharia de software na FIAP. Sou apaixonado por tecnologia e estou sempre em busca de novos conhecimentos, procuro estar sempre evoluindo.
 
 ---
 
