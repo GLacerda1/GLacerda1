@@ -91,11 +91,4 @@ Me chamo Gabriel Lacerda Araújo e tenho 20 anos. Atualmente estou cursando Enge
 <br/>
 <br/>
 
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=GLacerda1&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
-
 </p>
